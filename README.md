@@ -10,4 +10,5 @@
 - 19 07 06 020 ECE POLAT
 - 19 07 06 009 İREM BATAK
 
-This project is a chatbox project about gym exercises created using GPT-3.
+This project is a chatbox project about gym exercises created using GPT-3. 
+A project provides exercises to users for a selected muscle, aims to make the user's life easy and increase the awareness and help him save some money instead of subscribing to personal training.
