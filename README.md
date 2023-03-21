@@ -1,6 +1,5 @@
-# SE-403-01-Software-Project-Management-GymBuddy-ChatBot
-
-#### GymBuddy
+# GymBuddy-ChatBot
+### SE-403-01-Software-Project-Management-GymBuddy
 
 ## TEAM MEMBERS:
 
