@@ -12,3 +12,7 @@
 
 This project is a chatbox project about gym exercises created using GPT-3. 
 A project provides exercises to users for a selected muscle, aims to make the user's life easy and increase the awareness and help him save some money instead of subscribing to personal training.
+
+Our Gymbuddy chatbot page is designed to provide an **optimal user experience**, ensuring both **aesthetic appeal** and **functional efficiency**. 
+
+![GymBuddy](https://user-images.githubusercontent.com/93487264/229644868-b561b03a-6db8-4923-986e-7084301a462f.png)
