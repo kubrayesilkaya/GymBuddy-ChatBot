@@ -1,0 +1,10 @@
+C:\Users\ILAYDA_GULASAR\source\repos\GymBuddy-SignUp\obj\Debug\GymBuddy-SignUp.csproj.AssemblyReference.cache
+C:\Users\ILAYDA_GULASAR\source\repos\GymBuddy-SignUp\obj\Debug\GymBuddy-SignUp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ILAYDA_GULASAR\source\repos\GymBuddy-SignUp\obj\Debug\GymBuddy_SignUp.Properties.Resources.resources
+C:\Users\ILAYDA_GULASAR\source\repos\GymBuddy-SignUp\obj\Debug\GymBuddy-SignUp.csproj.GenerateResource.cache
+C:\Users\ILAYDA_GULASAR\source\repos\GymBuddy-SignUp\obj\Debug\GymBuddy-SignUp.csproj.CoreCompileInputs.cache
+C:\Users\ILAYDA_GULASAR\source\repos\GymBuddy-SignUp\bin\Debug\GymBuddy-SignUp.exe.config
+C:\Users\ILAYDA_GULASAR\source\repos\GymBuddy-SignUp\bin\Debug\GymBuddy-SignUp.exe
+C:\Users\ILAYDA_GULASAR\source\repos\GymBuddy-SignUp\bin\Debug\GymBuddy-SignUp.pdb
+C:\Users\ILAYDA_GULASAR\source\repos\GymBuddy-SignUp\obj\Debug\GymBuddy-SignUp.exe
+C:\Users\ILAYDA_GULASAR\source\repos\GymBuddy-SignUp\obj\Debug\GymBuddy-SignUp.pdb
