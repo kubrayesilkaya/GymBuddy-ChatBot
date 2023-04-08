@@ -1,0 +1,23 @@
+ <form method="POST" action="/get_bot_response">
+                    <input type="text" name="user_input">
+                    <input type="submit" value="Send">
+                </form>
+                <div id="bot-response"></div>
+                <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+                <script>
+                    $('form').submit(function(event) {
+                        event.preventDefault();
+                        $.ajax({
+                            type: 'POST',
+                            url: '/get_bot_response',
+                            data: $('form').serialize(),
+                            success: function(response) {
+                                $('#bot-response').html('<p>' + response.bot_response + '</p>');
+                            },
+                            error: function(error) {
+                                console.log(error);
+                            }
+                        });
+                        $('input[name=user_input]').val('');
+                    });
+                </script>
