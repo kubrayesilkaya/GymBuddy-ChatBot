@@ -16,3 +16,5 @@ A project provides exercises to users for a selected muscle, aims to make the us
 Our Gymbuddy chatbot page is designed to provide an **optimal user experience**, ensuring both **aesthetic appeal** and **functional efficiency**. 
 
 ![GymBuddy](https://user-images.githubusercontent.com/93487264/229644868-b561b03a-6db8-4923-986e-7084301a462f.png)
+
+![GymBuddy-SignUpPage](https://user-images.githubusercontent.com/119593384/230716761-534bfec7-a21c-4f0e-a79d-ff411077276f.png)
