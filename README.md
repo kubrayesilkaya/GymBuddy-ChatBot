@@ -26,3 +26,4 @@ Our Gymbuddy chatbot page is designed to provide an **optimal user experience**,
 ![AboutUs2](https://user-images.githubusercontent.com/76444340/230738078-2a8aed3b-7f8d-430d-a89e-0c29a3e35a72.png)
 ![AboutUs3](https://user-images.githubusercontent.com/76444340/230738082-0fd756e3-5dbb-43d4-8314-b1422d552fa7.png)
 
+![ProfilPage](https://user-images.githubusercontent.com/76444899/234015052-fc36f3b8-6dea-4c3e-bc03-9d24ce19ba0e.png)
