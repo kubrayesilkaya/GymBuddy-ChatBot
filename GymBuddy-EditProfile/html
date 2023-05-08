@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Edit Profile</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css" type="text/css" >
+  </head>
+  <body>
+    <div>
+      <h1 id="gymtext">Gym</h1>
+      <h1 id="buddytext">Buddy</h1>
+      <img id="gymbuddyimg" src="image/gym1.jpg">
+    </div>
+
+    <div >
+      <p id="email">E-Mail:</p>
+      <input type="email" id="emailInput"></input>
+      <p id="password">Password:</p>
+      <input type="password" id="passwordInput"></input>
+      <p id="age">Age:</p>
+      <input type="age" id="ageInput"></input>
+      <p id="weight">Weight:</p>
+      <input type="weight" id="weightInput"></input>
+      <p id="height">Height:</p>
+      <input type="height" id="heightInput"></input>
+    </div>
+
+    <button type="button" id="button">
+      <p class="btnUpload">Upload</p>
+    </button>
+
+    <div>
+      <img id="fitnessimg" src="image/fitness.png">
+    </div>
+
+      <div >
+          <div id="home">
+              <a href="home.html" class="text">
+                  Home
+              </a>
+              <div class="line"></div>
+          </div>
+
+          <div id="aboutUs">
+              <a href="aboutUs.html" class="text">
+                  About Us
+              </a>
+              <div class="line"></div>
+          </div>
+      </div>
+  </body>
+
+
+
+
+  
+</html>
