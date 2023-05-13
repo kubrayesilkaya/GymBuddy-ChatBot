@@ -29,4 +29,5 @@ Our Gymbuddy chatbot page is designed to provide an **optimal user experience**,
 ![ProfilPage](https://user-images.githubusercontent.com/76444899/236850235-d1d0f972-3118-41a9-879b-a2e00e0e4103.png)
 
 ![ExerciseTrackingPage](https://user-images.githubusercontent.com/76444340/234041408-f034f938-cbcb-4ec7-a679-daa13492e159.png)
+![GymBuddy Exercise Tracking Page](https://github.com/kubrayesilkaya/GymBuddy-ChatBot/assets/93487264/f48186e1-5f2a-4abf-91db-6d5bb19c9342)
 
